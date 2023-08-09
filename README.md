@@ -1,4 +1,4 @@
-# Blink-Detecion-Player
+# Blink-Detecion-Player®
 It is a software that has the ability to stop and play the videos watched on youtube and rewind when the eyes of this software are closed and opened.
 
 Download and extract shape_predictor_68_face_landmarks.dat to C:\Users\mesut\OneDrive\Desktop\Blink Detection Player\blink_detection_engine\blink_detection\model_landmarks
